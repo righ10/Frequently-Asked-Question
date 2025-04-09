@@ -1,6 +1,6 @@
 import React, {useState} from "react";
-import Plus from "../asset/image/icon-plus.svg"
-import Minus from "../asset/image/icon-minus.svg"
+import Plus from "../asset/icon-plus.svg"
+import Minus from "../asset/icon-minus.svg"
 export default function FaqItems(props){
 
 const [isFaq , setIsFaq] = React.useState(false)
