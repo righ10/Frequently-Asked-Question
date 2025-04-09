@@ -1,5 +1,5 @@
 import React from "react";
-import Star from "../asset/image/icon-star.svg"
+import Star from "../asset/icon-star.svg"
 
 export default function Header(){
     return (<div className="Header">
